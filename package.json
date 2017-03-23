@@ -1,6 +1,6 @@
 {
   "name": "general-router",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "一个通用的路由基础模块",
   "main": "./lib/index.js",
   "scripts": {
